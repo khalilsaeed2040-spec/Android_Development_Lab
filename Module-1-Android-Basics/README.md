@@ -35,10 +35,3 @@ The [Unit 1 overview screenshot](Screenshots/unit-1-overview.jpeg) shows the uni
 - Activity entry point and basic Compose UI.
 - Layout composition with text, images, and modifiers.
 
-## Reviewer Checklist
-
-- [x] Unit overview screenshot
-- [x] Three badge screenshots
-- [x] App-output screenshot
-- [ ] Completed source code added by student
-- [ ] Student-authored technical analysis
