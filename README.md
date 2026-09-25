@@ -42,7 +42,7 @@ This repository is organized as a reviewer-friendly Android learning portfolio f
 | Module | App-output screenshots |
 |---|---|
 | Module 1 | [First Android app output](Module-1-Android-Basics/Screenshots/first-android-app-output.jpg) |
-| Module 2 | App-output screenshot still needs to be added |
+| Module 2 | All the related files are in Module 2 |
 | Module 3 | [Learning cards output 1](Module-3-Lists-Material-Design/Screenshots/learning-cards-list-output-1.jpg), [Learning cards output 2](Module-3-Lists-Material-Design/Screenshots/learning-cards-list-output-2.jpg) |
 | Module 4 | [Course navigator home](Module-4-Navigation-App-Architecture/Screenshots/course-navigator-home.jpg), [Architecture screen](Module-4-Navigation-App-Architecture/Screenshots/architecture-components-screen.jpg), [Navigation screen](Module-4-Navigation-App-Architecture/Screenshots/navigation-compose-screen.jpg), [Adaptive layouts screen](Module-4-Navigation-App-Architecture/Screenshots/adaptive-layouts-screen.jpg) |
 
