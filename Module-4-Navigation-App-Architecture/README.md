@@ -30,12 +30,7 @@ The [Unit 4 overview screenshot](Screenshots/unit-4-overview.jpeg) shows the uni
 |---|---|---|---|
 | [![Course navigator home](Screenshots/course-navigator-home.jpg)](Screenshots/course-navigator-home.jpg) | [![Architecture Components screen](Screenshots/architecture-components-screen.jpg)](Screenshots/architecture-components-screen.jpg) | [![Navigation Compose screen](Screenshots/navigation-compose-screen.jpg)](Screenshots/navigation-compose-screen.jpg) | [![Adaptive layouts screen](Screenshots/adaptive-layouts-screen.jpg)](Screenshots/adaptive-layouts-screen.jpg) |
 
-## Learning Outcomes To Discuss
 
-- Separating UI from state and app logic.
-- Navigation routes and screen transitions.
-- ViewModel and state ownership.
-- Adaptive layout decisions for different devices.
 
 ## Reviewer Checklist
 
