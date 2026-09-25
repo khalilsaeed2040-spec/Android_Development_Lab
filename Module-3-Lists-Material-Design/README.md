@@ -37,10 +37,4 @@ The [Unit 3 overview screenshot](Screenshots/unit-3-overview.jpeg) shows the uni
 - Material Design styling, colors, and typography.
 - Accessibility and consistency in UI design.
 
-## Reviewer Checklist
 
-- [x] Unit overview screenshot
-- [x] Three badge screenshots
-- [x] App-output screenshots
-- [ ] Completed source code added by student
-- [ ] Student-authored technical analysis
