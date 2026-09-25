@@ -31,10 +31,5 @@ The [Unit 2 overview screenshot](Screenshots/unit-2-overview.jpeg) shows the uni
 - Separating calculation logic from UI code.
 - Testing simple Kotlin functions and UI behavior.
 
-## Reviewer Checklist
 
-- [x] Unit overview screenshot
-- [x] Three badge screenshots
-- [ ] Completed source code added by student
-- [ ] Student-authored technical analysis
 
