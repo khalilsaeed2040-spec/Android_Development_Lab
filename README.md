@@ -114,19 +114,3 @@ Android_Development_Lab/
     └── References.md
 ```
 
-## Final Submission Checklist
-
-- [x] Four Android learning module evidence sections
-- [x] At least ten Android Developer badge screenshots
-- [x] Badge evidence folders
-- [x] Unit overview screenshots
-- [ ] Android Developer profile URL
-- [ ] Completed Android source code for each module
-- [ ] Module 2 app-output screenshot
-- [ ] Student-authored module analysis
-- [ ] Student-authored reflection
-- [ ] Moodle PDF containing GitHub Repository URL, Android Developer Profile URL, and Badge Summary
-
-## Academic Integrity Note
-
-The evidence screenshots in this repository should represent the student's own completed learning activity. The source code, analysis, and reflection sections must be completed using the student's own work and words before final submission.
