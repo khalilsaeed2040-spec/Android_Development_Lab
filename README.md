@@ -17,7 +17,7 @@ This repository is organized as a reviewer-friendly Android learning portfolio f
 | Assessment | Assessment 1: Lab Exercises |
 | Learning programme | Android Basics with Compose |
 | Completed evidence uploaded | 4 unit overview screenshots, 12 badge screenshots, and 8 app-output screenshots |
-| Android Developer profile | Add profile URL before Moodle submission |
+| Android Developer profile | https://me.developers.google.com/u/101735767101733497356 |
 
 ## Quick Links
 
