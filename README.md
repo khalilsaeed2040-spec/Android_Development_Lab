@@ -9,8 +9,8 @@ This repository is organized as a reviewer-friendly Android learning portfolio f
 
 | Item | Details |
 |---|---|
-| Student | Add student name before final submission |
-| Student ID | Add student ID before final submission |
+| Student | Khalil ur Rehman Saeed |
+| Student ID | AIU24102091 |
 | Course | CDE2313 - Mobile Application Development |
 | Academic session | 2025/2026, Semester 3 |
 | Lecturer | Ts Mohd Zulkifli Mohd Zaki |
